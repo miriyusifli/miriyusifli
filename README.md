@@ -4,7 +4,8 @@
   
   <code>
     <a href="https://www.linkedin.com/in/miriyusifli/" title="LinkedIn Profile">
-      <img width="22" src="https://github.com/miriyusifli/miriyusifli/blob/main/linkedin.svg"> LinkedIn</img> </a></code>
+      <img width="22" src="https://github.com/miriyusifli/miriyusifli/blob/main/linkedin.svg"> LinkedIn </a>
+</code>
 
   <code><a href="https://www.facebook.com/yusiflimiri" title="Facebook Profile"><img width="22" src="https://github.com/miriyusifli/miriyusifli/blob/main/facebook.svg"> Facebook</a></code>
 
