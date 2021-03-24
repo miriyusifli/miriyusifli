@@ -10,6 +10,12 @@
 <code><a href="https://twitter.com/miri_yusifli" title="Twitter Profile"><img width="22" src="https://github.com/miriyusifli/miriyusifli/blob/main/twitter.svg"> Twitter</a></code>
 </h5>
 
+
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 at Saarland University
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
