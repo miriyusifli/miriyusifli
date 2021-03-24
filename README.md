@@ -11,9 +11,11 @@
 </h5>
 
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Full-stack software developer
 - 🎓 Studying Computer Science at Saarland University
+
+## 🚀 Some Tools I Use
 
 <!--
 - 🔭 I’m currently working on ...
